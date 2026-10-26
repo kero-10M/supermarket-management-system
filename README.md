@@ -21,14 +21,14 @@ The core architecture linking sales, inventory, and entities.
 
 ### 2. Checkout Dashboard
 Real-time sales processing and customer management interface.
-![Checkout](Screenshot%202026-10-26%20215100.jpg)
+![Checkout](Screenshot%202026-10-26%20215100.png)
 
 ### 3. Products & Suppliers Management
 Interfaces for updating pricing, stock quantities, and supplier details.
-![Products Details](Screenshot%202026-10-26%20215255.jpg)
-![Suppliers Details](Screenshot%202026-10-26%20215313.jpg)
+![Products Details](Screenshot%202026-10-26%20215255.png)
+![Suppliers Details](Screenshot%202026-10-26%20215313.png)
 
 ### 4. Main Navigation & Reports
 Centralized hubs for system navigation and generating dynamic business reports.
-![Main Navigation](Screenshot%202026-10-26%20215113.jpg)
-![Reports Selection](Screenshot%202026-10-26%20215304.jpg)
+![Main Navigation](Screenshot%202026-10-26%20215113.png)
+![Reports Selection](Screenshot%202026-10-26%20215304.png)
